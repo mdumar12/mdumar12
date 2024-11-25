@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohammed Umar</h1>
 <h3 align="center">👨‍💻 Passionate developer skilled in React, Node.js, Express, Spring Boot, Hibernate, Data Structures & Algorithms, HLL, and LLD. Creating scalable, efficient</h3>
 
-- 🌱 I’m currently learning **Node.js, React, and Spring Boot to continue building my skills and contributing my expertise as I grow and learn.**
-
-- 💬 Ask me about **Passionate developer skilled in React, Node.js, Express, Spring Boot, Hibernate, Data Structures & Algorithms, HLL, and LLD. Creating scalable, efficient**
-
-- 📫 How to reach me **mdumar109876@gmail.com**
-
-- ⚡ Fun fact **I love creating solutions that millions find useful and enjoy solving complex problems.**
+🔭 Currently Focused On: Personal growth by enhancing my expertise in web development
+🌱 Exploring: Node.js, React, and Spring Boot to continue building my skills and contributing my expertise as I grow and learn.
+👯 Open to collaborating on web development projects
+💬 Feel free to ask me anything here
+😄 Pronouns: He/Him
+⚡ Fun Fact: I love creating solutions that millions find useful and enjoy solving complex problems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
